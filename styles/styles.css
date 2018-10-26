@@ -1,0 +1,9 @@
+* {
+  box-sizing:border-box;
+}
+.cats {
+    max-width: 500px
+}
+footer {
+  color:grey
+}
