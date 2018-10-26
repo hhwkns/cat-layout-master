@@ -1,9 +1,19 @@
 * {
   box-sizing:border-box;
 }
-.cats {
+
+/* .cats {
     max-width: 500px
 }
 footer {
   color:grey
-}
+} */
+.content-box {
+  height: 5em;
+  width: 5em;
+  padding: 4em;
+  border: 1em;
+  border-style: solid;
+  border: 1em;
+  margin: 1em;
+  }
